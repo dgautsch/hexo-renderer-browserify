@@ -1,0 +1,37 @@
+{
+  "name": "hexo-renderer-bourbon",
+  "version": "1.0.0",
+  "description": "A browserify renderer for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgautsch/hexo-renderer-browserify"
+  },
+  "keywords": [
+    "hexo",
+    "renderer",
+    "hexo-renderer",
+    "browserify"
+  ],
+  "author": "Dan Gautsch <dgautsch@gmail.com> (http://gautsch.codes/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgautsch/hexo-renderer-browserify/issues"
+  },
+  "homepage": "https://github.com/dgautsch/hexo-renderer-browserify",
+  "dependencies": {
+    "browserify": "^13.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "coveralls": "^2.11.4",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.3.4",
+    "rimraf": "^2.4.4"
+  }
+}
