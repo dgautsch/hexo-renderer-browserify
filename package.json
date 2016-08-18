@@ -1,5 +1,5 @@
 {
-  "name": "hexo-renderer-browserify",
+  "name": "hexo-renderer-browserify2",
   "version": "1.0.0",
   "description": "A browserify renderer for Hexo.",
   "main": "index.js",
